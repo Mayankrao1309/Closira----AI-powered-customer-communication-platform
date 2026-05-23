@@ -1,0 +1,31 @@
+Welcome to Bloom Aesthetics Clinic
+Type your message below. Type 'bye' or 'quit' to end the session.
+
+--------------------------------------------------
+You: hi can i get a laser treatment here
+
+Bloom AI: I'm sorry, I don't have any information about laser treatments in our services.
+
+Have you visited us before, or is this your first time?
+
+You: no it is my first time
+
+Bloom AI: Which treatment are you most interested in? We offer Botox, Dermal Fillers, and complimentary consultations.
+
+You: thats not what i asked tell me what i asked you
+
+Bloom AI: I'm sorry, I seem to have misunderstood your previous question. I will connect you with a team member who can help you further.
+
+
+ Generating session summary...
+
+SUMMARY
+-------
+Customer Intent: Inquire about services, specifically laser treatment. Expressed dissatisfaction with AI response.
+Treatment Interest: Laser treatment (not offered in SOP)
+Qualification Answers: First time; Did not specify interest; Not asked
+SOP Gaps: Laser treatment
+Escalated: Yes - Customer expressed dissatisfaction
+Recommended Next Action: A human agent should contact the customer to address their inquiry about laser treatments and manage their dissatisfaction.
+--------------------------------------------------
+Thank you for contacting Bloom Aesthetics. Goodbye!

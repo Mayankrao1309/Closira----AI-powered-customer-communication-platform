@@ -1,0 +1,35 @@
+Welcome to Bloom Aesthetics Clinic
+Type your message below. Type 'bye' or 'quit' to end the session.
+
+--------------------------------------------------
+You: hi there
+
+Bloom AI: Hello! Welcome to Bloom Aesthetics Clinic. How can I assist you today?
+
+You: can i get a botox here
+
+Bloom AI: Yes, we offer Botox treatments at Bloom Aesthetics Clinic. Botox is used for anti-wrinkle injections for forehead and frown lines, with a starting price of £200.
+
+Have you visited us before, or is this your first time?
+
+You: first time
+
+Bloom AI: Great! Which treatment are you most interested in?
+
+You: botox treatment
+
+Bloom AI: Do you have any upcoming events or a timeline in mind?
+
+You: none how can i get an appointment?
+
+Bloom AI: Bookings can be made via mail or through our website. Our email is bloomaesthetics@gmail.com and our website is www.bloomaesthetics.com.
+
+SUMMARY
+-------
+Customer Intent: Inquire about Botox, understand booking process.
+Treatment Interest: Botox
+Qualification Answers: First time, Botox treatment, no upcoming events/timeline.
+SOP Gaps: None
+Escalated: No
+Recommended Next Action: Send a direct link to the booking page on the website or offer to help draft a booking email.
+Bookings can be made via email at bloomaesthetics@gmail.com or through our website, www.bloomaesthetics.com.

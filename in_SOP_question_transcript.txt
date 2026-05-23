@@ -1,0 +1,22 @@
+You: hi how much does a consultation cost?
+
+Bloom AI: A consultation at Bloom Aesthetics Clinic is free.
+
+You: what are your opening timimgs
+
+Bloom AI: Our business hours are Monday to Saturday, from 9am to 7pm.
+
+You: exit
+
+ Generating session summary...
+
+SUMMARY
+-------
+Customer Intent: Inquired about Botox treatment, booking process, consultation cost, and business hours.
+Treatment Interest: Botox
+Qualification Answers: First time, Botox treatment, no upcoming events/timeline.
+SOP Gaps: None
+Escalated: No
+Recommended Next Action: Follow up to see if the customer wishes to book a Botox treatment or a free consultation, or if they have any further questions.
+--------------------------------------------------
+Thank you for contacting Bloom Aesthetics. Goodbye!

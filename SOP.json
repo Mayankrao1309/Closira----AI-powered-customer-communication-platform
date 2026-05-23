@@ -1,0 +1,35 @@
+{
+  "business_name": "Bloom Aesthetics Clinic",
+  "business_hours": "Monday to Saturday, 9am to 7pm",
+  "location": "Bangalore, India",
+  "contact": {
+    "website": "www.bloomaesthetics.com",
+    "email": "bloomaesthetics@gmail.com"
+  },
+  
+  "services": [
+    {
+      "name": "Botox",
+      "starting_price": "£200",
+      "description": "Anti-wrinkle injections for forehead and frown lines."
+    },
+    {
+      "name": "Dermal Fillers",
+      "starting_price": "£250",
+      "description": "Lip, cheek, and jawline fillers using hyaluronic acid."
+    },
+    {
+      "name": "Consultation",
+      "starting_price": "Free",
+      "description": "Initial consultation with a qualified aesthetic practitioner."
+    }
+  ],
+  "booking_policy": "Bookings can be made via mail or the website. A 24-hour cancellation notice is required.",
+  
+  "escalation_triggers": [
+    "complaint or dissatisfaction",
+    "medical question or health concern",
+    "pricing negotiation or discount request",
+    "more than 2 questions the AI cannot answer from the SOP"
+  ]
+}

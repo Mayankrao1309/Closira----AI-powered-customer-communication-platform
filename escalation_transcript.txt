@@ -1,0 +1,35 @@
+Welcome to Bloom Aesthetics Clinic
+Type your message below. Type 'bye' or 'quit' to end the session.
+
+--------------------------------------------------
+You: hi can you tell me where is bloom situated
+
+Bloom AI: Hello! Bloom Aesthetics Clinic is situated in Bangalore, India.
+
+You: can you tell me about the services
+
+Bloom AI: Certainly! Bloom Aesthetics Clinic offers the following services:
+
+*   **Botox:** Anti-wrinkle injections for forehead and frown lines, starting from £200.
+*   **Dermal Fillers:** Lip, cheek, and jawline fillers using hyaluronic acid, starting from £250.
+*   **Consultation:** An initial consultation with a qualified aesthetic practitioner, which is free.
+
+Have you visited us before, or is this your first time?
+
+You: why are you asking me questions. dont push questions to me
+
+Bloom AI: I apologise if my questions came across as pushy. I'm designed to help gather information to better assist you.
+
+
+ Generating session summary...
+
+SUMMARY
+-------
+Customer Intent: Inquired about clinic location and services
+Treatment Interest: General inquiry about services
+Qualification Answers: Not answered / Not asked
+SOP Gaps: None
+Escalated: Yes - Customer expresses dissatisfaction with being asked questions
+Recommended Next Action: A human agent should engage to address the customer's discomfort with questions and offer further assistance regarding services.
+--------------------------------------------------
+Thank you for contacting Bloom Aesthetics. Goodbye!
