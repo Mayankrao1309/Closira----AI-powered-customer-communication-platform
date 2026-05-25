@@ -4,7 +4,7 @@ from datetime import datetime
 import google.generativeai as genai
 
 
-genai.configure(api_key="AIzaSyAr7DSb4AAcBa13Nsts8A5vDZaSwgDQsOw")
+genai.configure(api_key="AIzaSyAr7DSb4AAcBa13****************") ### add your api key here !!
 
 with open("sop.json", "r") as f:
     SOP = json.load(f)
